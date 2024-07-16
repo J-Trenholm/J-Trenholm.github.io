@@ -1,86 +1,49 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jaimason C. Trenholm
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- **Email**: Jaimason.Trenholm@gmail.com
+- **LinkedIn**: Jaimason Trenholm
+- **Phone**: (737) 275-1732
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Bachelor of Science in Business Management**  
+Brigham Young University-Idaho, Rexburg, ID  
+- Culinary Arts
+- Data Science and Analytics
+- Business Finance
+- Minor in Small Business Operations
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+### Line Cook
+Aug. 2022 – Sep 2023  
+Life Care Services LLC, Georgetown, TX  
+- Prepared food items consistently and in compliance with recipes, portioning, cooking, and waste control guidelines.
+- Operated various kitchen appliances such as a blender, oven, grill, or stand mixer.
+- Ensured freshness of food and ingredients by checking for quality, keeping track of old and new items, and rotating stock.
+- Assisted in prep work, such as washing vegetables or butchering meat when needed.
+- Adhered to sanitation policies at all times when handling food products.
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Teachers Assistant
+Aug. 2022 – Jun 2023  
+Georgetown ISD, Georgetown, TX  
+- Facilitated small group instruction and activities for students of varying abilities.
+- Supported teachers by preparing materials, setting up equipment, and organizing supplies.
+- Helped teacher plan lessons utilizing various teaching strategies including hands-on activities and technology integration.
 
-- Fellow
+### Team Member
+May 2020 – Aug. 2022  
+Whataburger, Georgetown, TX  
+- Ensured cash values were consistent with sales and no money was lost.
+- Managed team on the floor, ensuring efficiency and timeliness.
+- Used customer service skills to provide customers with the best experience possible.
 
+## Leadership/Skills
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Competed in the state of Texas winning 1st place in the culinary division.
+- Helped rewrite the handbook for the Delaney, resulting in better training for new employees.
+- 4 years of knife skills experience.
+- Helped manage funds and make food orders at the Delaney.
 
 
 
